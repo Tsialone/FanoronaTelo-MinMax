@@ -89,6 +89,20 @@ python -m display.Main
 
 L'interface graphique Tkinter s'ouvrira avec un plateau de jeu 3x3.
 
+## Galerie
+
+### Captures d'écran
+
+#### Interface du Jeu
+![Interface principale du jeu Fanorona Telo](./docs/image1.jpg)
+
+#### Plateau de Jeu
+![Plateau de jeu 3x3 avec les pièces](./docs/image2.jpg)
+
+
+#### En Action
+![Exemple d'une partie en cours](./docs/image3.jpg)
+
 ## Fonctionnalités Principales
 
 ### Algorithme Minimax
